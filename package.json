@@ -1,0 +1,22 @@
+{
+  "name": "file-upload-example",
+  "version": "1.0.0",
+  "description": "Demonstrate Uploading Files with Selenium",
+  "main": "index.js",
+  "scripts": {
+    "webserver": "nodemon webserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billmeyer/file-upload-example.git"
+  },
+  "author": "Bill Meyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billmeyer/file-upload-example/issues"
+  },
+  "homepage": "https://github.com/billmeyer/file-upload-example#readme",
+  "devDependencies": {
+    "formidable": "^1.2.2"
+  }
+}
